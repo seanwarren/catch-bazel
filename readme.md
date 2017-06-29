@@ -6,8 +6,8 @@ Add this to your `WORKSPACE` file:
 ```py
 http_archive(
     name = "catch",
-    url = "https://github.com/PlacidBox/catch-bazel/archive/v1.9.5.tar.gz",
-    strip_prefix = "catch-bazel-1.9.5",
+    url = "https://github.com/PlacidBox/catch-bazel/archive/v1.9.6.tar.gz",
+    strip_prefix = "catch-bazel-1.9.6",
 )
 ```
 
